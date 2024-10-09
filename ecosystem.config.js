@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'fondo_app',
+      name: 'app_mobile_fecor',
       script: 'dist/main.js',
       instances: 'max',
       exec_mode: 'cluster',
